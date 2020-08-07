@@ -1,3 +1,23 @@
 .header{
-
+    display: flex;
+    flex-direction: row;
+  
+    justify-content: space-between;
+    align-items: center;
+  
+    background: #020C18;
+    background-image: url("https://joepacal.github.io/kistorm-dsia/assets/img-digitalAfrica.png");
+    background: url("https://joepacal.github.io/kistorm-dsia/assets/img-digitalAfrica.png") no-repeat 90% 50%, linear-gradient(257.6deg, #020C18 7.79%, #061D35 24.39%, #375C83 53.07%, #4779AE 80.22%);
+    background-size: 212px, cover;
+  
+    border-radius: 0.5rem;
+    border-bottom: solid 20px #2E5586;
+  
+    
+    margin: 0rem 0rem 1rem 0rem;
+    padding: 0rem 2rem 0rem 2rem;
+  
+    color: #fff;
+  
+    height: 156px;
 }
